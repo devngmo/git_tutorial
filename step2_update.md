@@ -7,7 +7,7 @@
         + In source control panel, move the mouse cursor to the file you have just added, click button with plus icon "+" to stage change ( add file )
 
 - Save all staged files to git:
-    + by command: ```git commit -m "Commit message here"
+    + by command: ```git commit -m "Commit message here"```
 
 - Or you can commit directly without command staging: 
 ```
