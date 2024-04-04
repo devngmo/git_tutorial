@@ -11,5 +11,5 @@ git config --global user.email 'tester@gmail.com'
 # Setup Git for new project
 1. Create a folder
 2. Setup git repository:
-    by command: ```git init```
-    
+    + by command: ```git init```
+    + in visual studio code: in Source Control panel, click button "Initialize Repository"
